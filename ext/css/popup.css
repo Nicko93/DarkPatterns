@@ -5,7 +5,7 @@ html, body {
     min-height: 180;
     width: 296px;
     color: #FFFFFF;
-    background-color: #041F30;
+    background-color: #005C53;
 }
 
 h1 {
@@ -19,13 +19,13 @@ p {
 }
 
 button {
-    background-color: #4BE680;
+    background-color: #DBF227;
     border: none;
     font-size: 16px;
     padding: 12px 12px;
     margin: 8px 0px 8px 0px;
     border-radius: 3px;
-    box-shadow: 0px 3px 2px 1px #00131f;
+    box-shadow: 0px 3px 2px 1px #002926;
     width: 100%;
     transition: background-color 0.2s ease;
 }
